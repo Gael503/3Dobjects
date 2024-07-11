@@ -1,0 +1,11 @@
+.content{
+  border: 1px solid white;
+  width: 100%;
+}
+header{
+  background: #1e59b1;
+  padding: 15px;
+  color: white;
+  font-size: 24px;
+  font-weight: 900;
+}
